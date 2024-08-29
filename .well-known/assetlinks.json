@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pwademo.game.fastdice",
+      "sha256_cert_fingerprints":
+      ["35:F0:72:D9:A6:D8:D4:EF:89:FF:FB:5E:1B:A4:A0:E0:35:4C:F2:14:62:15:85:F1:62:2E:99:90:27:ED:3C:12"]
+    }
+  }
+]
