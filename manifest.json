@@ -1,6 +1,6 @@
 {
   "name": "Quick Dice",
-  "description": "Quick Dice.",
+  "description": "Quick Dice is a simple dice-rolling game demo, showcasing a quick and interactive gameplay experience.",
   "orientation": "portrait",
   "start_url": "/pwa_demo",
   "scope": "/pwa_demo",
@@ -16,12 +16,12 @@
   ],
   "screenshots": [
     {
-      "src": "https://www.websupports.site/pwa_screenshot/profile/screenshot/2024/09/03/screenshot-20240830-154832_20240903161700A007.jpg",
+      "src": "/pwa_demo/screenshots/screenshot-1.jpg",
       "sizes": "720x1280",
       "type": "image/jpeg"
     },
     {
-      "src": "https://www.websupports.site/pwa_screenshot/profile/screenshot/2024/09/03/screenshot-20240830-154907_20240903161700A008.jpg",
+      "src": "/pwa_demo/screenshots/screenshot-2.jpg",
       "sizes": "720x1280",
       "type": "image/jpeg"
     }
