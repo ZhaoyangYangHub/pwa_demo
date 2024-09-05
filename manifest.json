@@ -9,7 +9,7 @@
   "theme_color": "black",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "/pwa_demo/icon-512.png",
       "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
       "type": "image/png"
     }
@@ -30,10 +30,5 @@
     "Game"
   ],
   "manifest_version": 2,
-  "version": "0.1",
-  "applications": {
-    "gecko": {
-      "id": "addon@example.com"
-    }
-  }
+  "version": "1.0.0"
 }
